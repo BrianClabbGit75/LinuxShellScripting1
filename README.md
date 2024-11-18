@@ -1,5 +1,8 @@
 # LinuxShellScripting1
 Capstone Project - Multiplication Table using Bash Scripting,For and For C loop
+
+
+```markdown
 #!/bin/bash
 
 # This script generates a multiplication table for a number entered by the user.
@@ -53,7 +56,7 @@ else
   echo "Invalid input. Please enter 'full' or 'partial'."
   exit 1
 fi
-
+```
 
 
 This script combines aspects of For loop and C-style For loop:
